@@ -84,8 +84,8 @@ class ualf:
 		"signalIndicator" : self.signalIndicator,
 		"timingIndicator" : self.timingIndicator
 		}
-
+	def parse(self):
+		return self.ualf_dict
 	def print_ualf(self):
 		print(self.ualf_dict)
-
 
