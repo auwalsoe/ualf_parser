@@ -1,4 +1,4 @@
-# ualf_parser (In Progress)
+# ualf_parser
 Package for parsing public lightning data in LLPS/CGLSS (UALF) format.
 
 # Explanation of format
